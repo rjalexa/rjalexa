@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rjalexa, a medical doctor dabbling with  information technology (and service design and medical research)
-- 👀 I’m striving to becoming fluent with data science and knowledge modeling.
-- 🌱 I’m currently practicing the above trying to devise little "experiments" with real data rather than working on abstract cases.
+- 👋 Hi, I’m @rjalexa, a medical doctor with  information technology skills (and service design and medical research)
+- 👀 I'm mostly developing backends with python and several DB technologies (SQL, NoSQL, Vector)
+- 🌱 I love data science, build complex AI based ETL pipelines and automate boring stuff.
 - 📫 my email is bob and can be reached at my ralexander.it domain. I live on Central European time. Keep safe!
 
 <!---
