@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rjalexa, a medical doctor with  information technology skills (and service design and medical research)
-- 👀 I'm mostly developing backends with python and several DB technologies (SQL, NoSQL, Vector)
+- 👀 I'm mostly developing LLM backends with python and several DB technologies (SQL, NoSQL, Vector)
 - 🌱 I love data science, build complex AI based ETL pipelines and automate boring stuff.
 - 📫 my email is bob and can be reached at my ralexander.it domain. I live on Central European time. Keep safe!
 
